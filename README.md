@@ -1,3 +1,5 @@
+# Everything should stay sync with mocha release, only I injected some code to the lib/reporters/base.js
+
 # Mocha needs YOU!
 
 *Did you know* Mocha [is a dependency of over 100,000 projects](https://libraries.io/npm/mocha) published to npm alone?
